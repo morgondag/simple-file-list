@@ -2,7 +2,7 @@
 Reads a folder, list all files, can save to disk.
 
 
-###**require**
+### **require**
 as a regular node-module
 
 * ```npm i simple-file-list --save```
@@ -29,7 +29,7 @@ sfl('./folder', 'png, 'list.json).then(result => {
 
 
 
-###**cli**
+### **cli**
 run from terminal
 
 * ```npm i -g simple-file-list```
